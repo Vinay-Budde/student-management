@@ -74,7 +74,7 @@ function Login() {
           text-blue-600
         "
         >
-          Student Management
+          Workers Management
         </h1>
 
         <input
